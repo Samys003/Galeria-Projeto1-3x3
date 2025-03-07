@@ -1,6 +1,6 @@
 # Galeria-Projeto1-3x3
 
-![](![](image.png))
+![](preview.png)
 
 ## Projeto Galeria 3x3 
 
